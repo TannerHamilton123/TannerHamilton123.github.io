@@ -4,5 +4,5 @@
 I am a civil engineer, consultant and software developer
 
 ## Projects
-*Project A
+* Project A
 * Project B
