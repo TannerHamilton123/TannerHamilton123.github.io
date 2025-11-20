@@ -5,6 +5,7 @@ I am a civil engineer, consultant and software developer
 
 ## Projects
 ### [Lunar Lander](https://tannerhamilton123.github.io/space-lander/)
+<a href="https://example.com" target="_blank">Project Name</a>
 * **Description:** A game based on the exploratorium game, Lundar Lander
 * **Tech Stack:** Godot, GDScript, HTML
 
