@@ -3,6 +3,10 @@
 **About Me**
 I am a civil engineer, consultant and software developer
 
+<a href="Tanner Hamilton Resume.pdf" target="_blank">
+Download Full PDF Resume
+</a>
+
 ## Projects
 ### [Lunar Lander](https://tannerhamilton123.github.io/space-lander/)
 <a href="https://example.com" target="_blank">Project Name</a>
