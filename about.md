@@ -1,4 +1,5 @@
+---
 layout: default
-title: About Me  <-- THIS MUST BE EXACTLY RIGHT
+title: About Me
 ---
 # Hi, I'm Tanner Hamilton!
