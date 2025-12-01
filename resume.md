@@ -16,7 +16,7 @@ permalink: /resume/
 
 <iframe 
     src="{{ site.baseurl }}/assets/resume.pdf" 
-    style="width: 100%; height: 800px; border: none;" 
+    style="width: 100%; height: 100%; border: none;" 
     title="Professional Resume PDF Viewer">
     <p>Your browser does not support inline PDFs. Please use the download link above.</p>
 </iframe>
