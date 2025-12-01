@@ -1,14 +1,5 @@
-theme: jekyll-theme-slate
-title: Tanner Hamilton | Software Developer Portfolio
-description: A portfolio showcasing my work in [Specific Tech 1] and [Specific Tech 2].
-author: Tanner Hamilton
-header_pages:
-  - about.md
-  - projects.md
-
-color: green
-
-source: .
-
-exclude:
-  - README.md
+# _config.yml
+title: [Your Name]'s Resume Site
+description: A portfolio and resume built with Jekyll and GitHub Pages.
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
