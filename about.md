@@ -1,5 +1,7 @@
 ---
-layout: default
-title: About Me
+layout: page
+title: Portfolio Projects
+permalink: /projects/
 ---
-# Hi, I'm Tanner Hamilton!
+
+Here are the projects I've worked on...
