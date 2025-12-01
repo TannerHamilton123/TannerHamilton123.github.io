@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Home - Tanner Hamilton
+title: Home
 ---
 
-# 👋 Welcome to my Software Developer Portfolio!
+# Welcome to My Professional Resume Site
 
-This page is the landing spot. Use the navigation above to view my **About Me** and **Projects**.
+Hello! I'm glad you stopped by. Use the navigation bar above to learn more **About Me**, view my **Projects**, or download my **Resume (PDF)**.
+
+*This site is built using Jekyll and hosted on GitHub Pages.*
