@@ -5,3 +5,10 @@ author: Tanner Hamilton
 header_pages:
   - about.md
   - projects.md
+
+color: green
+
+source: .
+
+exclude:
+  - README.md
