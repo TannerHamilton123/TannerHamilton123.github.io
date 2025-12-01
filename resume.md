@@ -7,7 +7,7 @@ permalink: /resume/
 # My Professional Resume
 
 <div style="text-align: center; margin-bottom: 20px;">
-    <a href="{{ site.baseurl }}/assets/resume.pdf" 
+    <a href="{{ site.baseurl }}/assets/Tanner Hamilton Resume.pdf" 
        class="download-button" 
        download>
         Download Resume (PDF)
