@@ -2,11 +2,12 @@
 # Front Matter required for Jekyll to compile the SCSS file
 ---
 body {
-    font-family: sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     margin: 0;
     line-height: 1.6;
     background-color: #f8f8f8;
     color: #333;
+    font-size: 16px
 }
 
 /* --- Navigation Styling --- */
@@ -46,4 +47,64 @@ hr {
     height: 1px;
     background-color: #ddd;
     margin: 30px 0;
+}
+/* --- Main Content Area Styling --- */
+main.content {
+    /* Sets the maximum width of the content area for optimal reading */
+    max-width: 800px; 
+    
+    /* Centers the block element (content) on the page */
+    margin: 0 auto; 
+    
+    /* Adds space around the content, especially on smaller screens */
+    padding: 20px; 
+    
+    /* Ensures the main area is separated from the background */
+/* --- Headings for Projects and Content --- */
+h1 {
+    color: #007BFF; /* A professional blue for the main page title */
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    font-size: 1.6em;
+    font-weight: 600; /* Semi-bold */
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #495057; /* Darker secondary color for project titles */
+    margin-top: 40px;
+    margin-bottom: 5px;
+    font-size: 1.6em;
+    font-weight: 600; /* Semi-bold */
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+p {
+    margin-bottom: 20px; /* Consistent spacing below paragraphs */
+}
+
+/* --- Project Links (View on GitHub, Live Demo) --- */
+/* Targetting all links within the main content area */
+main.content a:not(nav a) {
+    color: #28a745; /* Green color for action links */
+    text-decoration: none;
+    font-weight: bold;
+    /* Adding a subtle bottom border effect */
+    border-bottom: 1px dashed #28a745;
+    transition: all 0.3s ease;
+}
+
+main.content a:not(nav a):hover {
+    color: #1e7e34;
+    border-bottom: 1px solid #1e7e34;
+}
+
+/* Add clear separation after the content of each project */
+h2 + p:last-of-type {
+    margin-bottom: 40px; /* Space between the end of one project and the start of the next */
+}
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05); /* Adds a subtle lift effect */
 }
