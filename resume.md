@@ -16,7 +16,7 @@ permalink: /resume/
 
 <iframe 
     src="{{ site.baseurl }}/assets/Tanner_Hamilton_Resume.pdf#toolbar=0" 
-    style="width: 100%; height: 1000px; border: none;" 
+    style="width: 100%; height: 1050px; border: none;" 
     title="Professional Resume PDF Viewer">
     <p>Your browser does not support inline PDFs. Please use the download link above.</p>
 </iframe>
