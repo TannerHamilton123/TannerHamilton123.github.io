@@ -1,0 +1,11 @@
+- name: "Python"
+  logo: "/assets/img/python.svg"
+  description: "Developed automated web scrapers and data processing pipelines."
+
+- name: "Jekyll"
+  logo: "/assets/img/jekyll.svg"
+  description: "Built custom static sites with Liquid templating and SEO optimization."
+
+- name: "AutoDesk Suite"
+  logo: "/assets/img/autodesk.svg"
+  desciption: ""

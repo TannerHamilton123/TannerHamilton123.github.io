@@ -4,9 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me
+# About Me 
 
-Here you can write a detailed overview of your professional journey, your philosophy, and your career goals.
-
-* **Skills:** HTML, CSS, JavaScript, Python
-* **Interests:** Open Source, Web Accessibility
+<div class="skills-container">
+  {% for skill in site.data.skills %}
+  <div class="skill-tile">
+    <img src="{{ skill.logo }}" alt="{{ skill.name }} logo" class="skill-icon">
+    <h3>{{ skill.name }}</h3>
+    <p>{{ skill.description }}</p>
+  </div>
+  {% endfor %}
+</div>

@@ -108,3 +108,35 @@ h2 + p:last-of-type {
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.05); /* Adds a subtle lift effect */
 }
+
+.blog-list {
+    list-style: none;
+    padding: 0;
+  }
+
+.blog-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ba0707;
+  }
+
+  .post-date {
+    color: #666;
+    font-size: 0.9em;
+  }
+
+
+.post-title {
+    color: #198539;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+.post-title:link{
+    color: #198539;
+}
+  }
+.post-title:visited{
+    color: #054d05;
+  } 
