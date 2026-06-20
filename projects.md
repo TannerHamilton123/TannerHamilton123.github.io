@@ -8,6 +8,10 @@ permalink: /projects/
 
 Here is a list of some of my most notable work.
 
+## Reango Shipping: Django and React browser game
+This simple game runs on React for frontend and Django for API and database handling.
+Skills: Django Rest Framework, React, Cloud Deployment, API's, PosgreSQL
+[https://reango-shipping-lime.vercel.app/]
 
 ## Space Lander: A Godot Physics Game
 Powered by the Godot game engine, Space Lander is a physics puzzle game about piloting a spacecraft around objects and gravitational obstacles.
