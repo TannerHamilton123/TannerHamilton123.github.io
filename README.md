@@ -15,4 +15,4 @@ Download Full PDF Resume
 
 ### [Project Name 2](Link_to_repo_or_demo)
 * **Description:** My personal website.
-* **Tech Stack:** GitHub Pages, Markdown, Jekyll
+* **Tech Stack:** GitHub Pages, React, Vite

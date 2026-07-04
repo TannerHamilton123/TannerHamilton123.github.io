@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tanner Hamilton Resume Site</title>
+    <script>
+      // GitHub Pages SPA redirect trick (https://github.com/rafgraph/spa-github-pages).
+      // GitHub Pages has no server-side rewrites, so a direct load of a nested route
+      // (e.g. /about/) 404s. This stashes the real path in a query string and redirects
+      // to the app root, where main.jsx restores it via history.replaceState before
+      // React Router mounts.
+      var path = window.location.pathname + window.location.search + window.location.hash;
+      window.location.replace("/?redirect=" + encodeURIComponent(path));
+    </script>
+  </head>
+  <body></body>
+</html>
