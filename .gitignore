@@ -4,3 +4,7 @@ _site/
 .jekyll-metadata
 main.css
 main.css.map
+
+# Node / Vite
+node_modules/
+dist/
