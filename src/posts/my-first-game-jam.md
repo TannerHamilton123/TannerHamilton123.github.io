@@ -1,4 +1,4 @@
-# My first game jam
+# Boba Broker: My First Game Jam
 
 As a moderate fan of video games and professional interest in software development, I find game development to be an interesting outlet in both abstract creativity and technical problem solving. I had made a gravity puzzle game for myself and friends, as well as a promotional endless run for a company. This time, however, I participated in a game jam, where individuals or teams of developers compete in creating a game on a specific theme within a specific amount of time.
 
