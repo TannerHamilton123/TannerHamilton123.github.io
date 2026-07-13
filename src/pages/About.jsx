@@ -43,7 +43,7 @@ export default function About() {
 
       <p>
         Outside of work, I spend as much time as I can outdoors with my
-        partner and our dog — camping, going to concerts, rock climbing, and
+        partner and our dog: camping, going to concerts, rock climbing, and
         running. I'm also a regular performer with my local comedy improv
         troupe, and I dabble in miniature painting. I support the Clean Air
         Task Force and Children International.
