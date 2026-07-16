@@ -13,11 +13,30 @@ export default function Projects() {
 <p>Here is a list of some of my most notable work.</p>
 <Container>
 
-  
+  <Row style= {{"margin-bottom":"20px"}}>
+      <Col>
+
+      <h2
+      style= {{"margin-top":"0px"}}>
+        RAG-Civil: AI Document Assistant for Civil Engineers</h2>
+      <p>
+        A retrieval-augmented generation (RAG) application that lets civil
+        engineers upload project-specific documents (design guidelines,
+        RFIs, etc.) and ask an AI assistant questions about them, receiving
+        cited answers pulled only from the uploaded files.
+        <br />
+        Skills: Python, FastAPI, RAG, OpenAI Embeddings, Claude API, Vector
+        Search, HTML/JS
+      </p>
+      <p><a href="https://tannerhamilton123.github.io/RAG-Civil/">Try RAG-Civil</a></p>
+      <p><a href="https://github.com/TannerHamilton123/RAG-Civil">Github</a></p>
+      </Col>
+  </Row>
+
   <Row style= {{"margin-bottom":"20px"}}>
       <Col
       >
-      
+
 
       <h2
       style= {{"margin-top":"0px"}}>
