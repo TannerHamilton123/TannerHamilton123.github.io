@@ -15,6 +15,9 @@ export default function Navigation() {
             <Link to="/projects/">Projects</Link>
           </li>
           <li>
+            <Link to="/ai-integrations/">AI Integrations</Link>
+          </li>
+          <li>
             <Link to="/resume/">Resume</Link>
           </li>
           <li>
