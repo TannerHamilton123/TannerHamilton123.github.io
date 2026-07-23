@@ -14,7 +14,7 @@ const caseStudies = [
     id: "rfi-submittal-workflow",
     title: "RFI and Submittal Workflow and Analysis",
     hook: "Draft: an AI-assisted workflow for triaging and analyzing RFIs and submittals faster.",
-    tags: ["LLM Automation", "Document Analysis", "Workflow Tooling"],
+    tags: ["Copilot Studio", "Power Automate", "SharePoint"],
   },
 ];
 
@@ -95,31 +95,23 @@ export default function AIIntegrations() {
             <h2 style={{ "margin-top": "0px" }}>
               RFI and Submittal Workflow and Analysis
             </h2>
+
             <p>
-              <em>
-                Draft &mdash; details below are placeholder copy to be
-                replaced with the real project specifics.
-              </em>
+              <strong>Problem:</strong> RFIs and submittals pile up in email boxes,
+              becoming difficult to track what has been intaked, distributed and responded to.
             </p>
             <p>
-              <strong>Problem:</strong> RFIs and submittals pile up on every
-              project, and triaging them &mdash; figuring out what's urgent,
-              what's a duplicate, and who needs to weigh in &mdash; eats up
-              time that could go toward actually resolving issues.
-            </p>
-            <p>
-              <strong>Approach:</strong> I'm developing an AI-assisted
-              workflow that reads incoming RFIs and submittals, summarizes
-              and categorizes them, flags items that need immediate
-              attention, and surfaces relevant precedent from prior project
-              documentation.
+              <strong>Approach:</strong> I developed a light-weight workflow
+              using our existing Microsoft environment to recieve RFI's/submittals from
+              our client, store them in our shared drive, update our log, and use AI to scan the document to determine
+              the expertise/subconsultant to assign this task to.
             </p>
             <p>
               <strong>Impact:</strong> The goal is to cut down the time
               engineers spend on first-pass review, so more time goes to
               engineering judgment instead of administrative sorting.
               <br />
-              Skills: LLM Automation, Document Analysis, Workflow Tooling
+              Skills: Copilot Studio, Power Automate, SharePoint, Automation
             </p>
           </Col>
         </Row>
