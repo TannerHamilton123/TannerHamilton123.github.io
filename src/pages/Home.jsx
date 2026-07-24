@@ -11,11 +11,11 @@ export default function Home() {
         className="headshot"
       />
       <h1>Tanner Hamilton</h1>
-      <h2>This is my porfolio website for you to learn more about me.</h2>
+      <h2>Professional Portfolio Website</h2>
 
       <p>
-        Hello, my name is Tanner Hamilton. I'm a young professional in the Bay
-        Area. I am a civil engineer, consultant, game developer, and software
+        I am a young professional in the Bay
+        Area who is a civil engineer, consultant, game developer, and software
         developer.
       </p>
 
